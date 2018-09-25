@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <settings>
+    <item key="IsUnZip" value="True"/>
+  </settings>
+  <pattern name="All 1" value=""/>
+  <pattern name="All 2" value=""/>
+  <pattern name="All 3" value=""/>
+  <pattern name="All 4" value=""/>
+  <pattern name="All 5" value=""/>
+  <pattern name="All 6" value=""/>
+  <pattern name="All 7" value=""/>
+  <pattern name="All 8" value=""/>
+  <pattern name="All 9" value=""/>
+  <pattern name="Navigation" value="User click;Navigat;Showing;"/>  
+  <pattern name="Thread 1" value="@ThreadId: 1;"/>
+  <pattern name="Level" value="LEV=1;2;"/>
+  <pattern name="EXC" value="EXC=a;b;c;"/>
+  <pattern name="And" value="DoWork+++Complete;"/>
+</root>
