@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using LogViewer.Controls;
+﻿using LogViewer.Controls;
 
 namespace LogViewer.Utilities
 {

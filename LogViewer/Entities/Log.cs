@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Drawing;
 using System.Reflection;
-
 namespace LogViewer
 {
     public class Log

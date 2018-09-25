@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using LogViewer.Controls;
 using LogViewer.Utilities;
+
 namespace LogViewer
 {
     public partial class MainForm : Form

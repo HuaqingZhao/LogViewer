@@ -36,3 +36,4 @@ D:\Projects\Studio\LogViewer\LogViewer\obj\Release\LogViewer.Properties.Resource
 D:\Projects\Studio\LogViewer\LogViewer\obj\Release\LogViewer.csproj.GenerateResource.Cache
 D:\Projects\Studio\LogViewer\LogViewer\obj\Release\LogViewer.exe
 D:\Projects\Studio\LogViewer\LogViewer\obj\Release\LogViewer.pdb
+D:\Projects\Studio\LogViewer\LogViewer\obj\Release\LogViewer.csprojResolveAssemblyReference.cache
